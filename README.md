@@ -6,3 +6,4 @@ Dynamic Programming Exercising And UnderStanding, Each Code including the explai
 * *ClimbFloor*     爬楼梯问题
 * *FullSequence*     全排列不等式符号插入问题
 * *BagSame*     类背包问题
+* *MaxCombo*     最大连续子组和问题
