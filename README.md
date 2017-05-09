@@ -7,3 +7,6 @@ Dynamic Programming Exercising And UnderStanding, Each Code including the explai
 * *FullSequence*     全排列不等式符号插入问题
 * *BagSame*     类背包问题
 * *MaxCombo*     最大连续子组和问题
+* *LCS*     最长公共子序列问题
+* *LongestIncreasingSubsequence*     最大升序子序列问题
+
